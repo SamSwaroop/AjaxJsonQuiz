@@ -79,14 +79,5 @@
         "d":"None of the above",
         "answer":"Key and value"
     
-    },
-    {
-        "10" :"Which is the correct format of writing a json name/value pair?",
-        "a":"name : value'",
-        "b":"name = "value1"",
-        "c":""name" : "1value"",
-        "d":"All of the Above",
-        "answer":"""name" : "value""
-    
     }
     ]
