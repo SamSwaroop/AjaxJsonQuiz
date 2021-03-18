@@ -18,8 +18,8 @@ btn.addEventListener('click',function(){
 function renderHTML(data){
     var htmlString=""
     for(i=0;i<data.length;i++){
-        htmlString +=data[i]
+        animalContainer.insertAdjacentHTML('beforeend',data[i])
     }
-     animalContainer.insertAdjacentHTML('beforeend',htmlString)
+     
 
 }
