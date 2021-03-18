@@ -68,7 +68,7 @@
         "b":"It's the programming language used to develop Ajax applications",
         "c":"It provides the ability to markup and style the display of web-page text",
         "d":"It provides a means of exchanging structured data between the Web server and client",
-        "answer":"It provides the ability to asynchronously exchange data between Web browser and a Web server",
+        "answer":"It provides the ability to asynchronously exchange data between Web browser and a Web server"
     
     },
     {
@@ -86,7 +86,7 @@
         "b":"name = "value1"",
         "c":""name" : "1value"",
         "d":"All of the Above",
-        "answer":"""name" : "value"",
+        "answer":"""name" : "value""
     
     }
     ]

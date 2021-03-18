@@ -3,7 +3,7 @@ var animalContainer = document.getElementById("animal-info")
 var btn = document.getElementById("btn")
 btn.addEventListener('click',function(){
     var HttpRequest = new XMLHttpRequest;
-    HttpRequest.open('GET','https://learnwebcode.github.io/json-example/animals-'+pageCounter+'.json')
+    HttpRequest.open('GET','https://raw.githubusercontent.com/SamSwaroop/AjaxJsonQuiz/main/example.json')
     HttpRequest.onload = function(){
     var Data = JSON.parse(HttpRequest.responseText)
     renderHTML(Data)
