@@ -1,0 +1,40 @@
+body{
+    background-color: #e9d946 ;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+}
+.qPanel{
+    margin:auto;
+    width:800px;
+    vertical-align: center;
+    margin:0 auto;
+    background-color: #6d7070 ;
+    box-shadow: -15px 10px 15px 18px red;
+    border: none ;
+    border-radius : 10px ;
+    padding: 20px ;
+    height: 350px ;
+    font-size: 15pt;
+}
+.ques{
+    font-size : 18pt;
+    font-weight: bold ;
+}
+.nxtBtn{
+    position: relative ;
+    right : 10px ;
+    float: right;
+    border-radius: 50px ;
+    font-size: 18pt ;
+    background-color: #f8fafc  ;
+    color: black ;
+    width: 80px ;
+    height: 35px ;
+}
+.nxtBtn:hover{
+    background-color:#16f13b;
+}
